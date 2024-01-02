@@ -36,7 +36,8 @@
 
 .about-us-pargraph {
   color: #171151;
-  font-size: 16px;
+  font-size: 18px;
+  font-weight: 700;
 }
 
 .banner-color {
@@ -103,8 +104,7 @@
 .box {
   position: relative;
   overflow: hidden;
-  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);
-  width: 420px;
+  width: 106%;
   height: 100%;
 }
 
@@ -192,7 +192,6 @@
   font-weight: 700;
   color: #171151;
   font-size: 40px;
-  text-align: center;
 }
 
 .card-img-top {
@@ -218,4 +217,11 @@ img {
   .box {
     width: 266px;
   }
+}
+.about-us-heading{
+  margin-top: 35px;
+  margin-bottom: 45px;
+}
+.about-us-parg{
+  margin-bottom: 42px;
 }
